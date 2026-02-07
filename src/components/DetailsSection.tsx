@@ -18,8 +18,8 @@ const DetailsSection = () => {
             </h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                This project is an AI-powered workflow automation that generates
-                captions for Instagram posts based on user-provided prompts.
+                This project is an AI-powered workflow that analyzes images to
+                create Instagram captions and publishes them automatically.
               </p>
               <p>
                 The workflow takes the first image from a designated Google

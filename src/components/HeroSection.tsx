@@ -20,8 +20,8 @@ const HeroSection = () => {
             AI Instagram Posting Workflow
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
-            This project is an AI workflow that uses user-provided prompts to
-            automatically create and publish captions for Instagram.
+            This project is an AI workflow that analyzes images to create
+            Instagram captions and publishes them automatically.
           </p>
         </motion.div>
 
